@@ -1,0 +1,13 @@
+## ローカルサーバー起動方法
+
+```sh
+python -m http.server 8000
+```
+
+## 起動方法
+
+```sh
+export DISPLAY=0
+./run_on_wasabi.sh
+saba
+```
